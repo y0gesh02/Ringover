@@ -1,24 +1,24 @@
 {
   "files": {
-    "main.css": "/static/css/main.e1737cac.css",
-    "main.js": "/static/js/main.ea901508.js",
-    "static/js/787.fb0e154d.chunk.js": "/static/js/787.fb0e154d.chunk.js",
-    "static/media/shoe2.png": "/static/media/shoe2.6b33f55d1b7df2986de5.png",
-    "static/media/tonikroos.jpg": "/static/media/tonikroos.e80bf0bde8f125d2942c.jpg",
-    "static/media/grasspic.jpg": "/static/media/grasspic.60d418585600b05647eb.jpg",
-    "static/media/Product_Sans.ttf": "/static/media/Product_Sans.863727019c4716c4dc24.ttf",
-    "static/media/christiano.jpg": "/static/media/christiano.f1dfce5fc4cc9bbfa560.jpg",
-    "static/media/shoe.jpg": "/static/media/shoe.9a7bc9c8f2cbd547b24e.jpg",
-    "static/media/ikercasillas.jpg": "/static/media/ikercasillas.d224623b70c639502b01.jpg",
-    "static/media/zidane.jpg": "/static/media/zidane.b7444a37d5bbb4202777.jpg",
-    "static/media/medium.png": "/static/media/medium.b87629cbe6267bf69b33.png",
-    "index.html": "/index.html",
-    "main.e1737cac.css.map": "/static/css/main.e1737cac.css.map",
-    "main.ea901508.js.map": "/static/js/main.ea901508.js.map",
-    "787.fb0e154d.chunk.js.map": "/static/js/787.fb0e154d.chunk.js.map"
+    "main.css": "/ringover/static/css/main.3e34730d.css",
+    "main.js": "/ringover/static/js/main.2e257de6.js",
+    "static/js/787.fb0e154d.chunk.js": "/ringover/static/js/787.fb0e154d.chunk.js",
+    "static/media/shoe2.png": "/ringover/static/media/shoe2.6b33f55d1b7df2986de5.png",
+    "static/media/tonikroos.jpg": "/ringover/static/media/tonikroos.e80bf0bde8f125d2942c.jpg",
+    "static/media/grasspic.jpg": "/ringover/static/media/grasspic.60d418585600b05647eb.jpg",
+    "static/media/Product_Sans.ttf": "/ringover/static/media/Product_Sans.863727019c4716c4dc24.ttf",
+    "static/media/christiano.jpg": "/ringover/static/media/christiano.f1dfce5fc4cc9bbfa560.jpg",
+    "static/media/shoe.jpg": "/ringover/static/media/shoe.9a7bc9c8f2cbd547b24e.jpg",
+    "static/media/ikercasillas.jpg": "/ringover/static/media/ikercasillas.d224623b70c639502b01.jpg",
+    "static/media/zidane.jpg": "/ringover/static/media/zidane.b7444a37d5bbb4202777.jpg",
+    "static/media/medium.png": "/ringover/static/media/medium.b87629cbe6267bf69b33.png",
+    "index.html": "/ringover/index.html",
+    "main.3e34730d.css.map": "/ringover/static/css/main.3e34730d.css.map",
+    "main.2e257de6.js.map": "/ringover/static/js/main.2e257de6.js.map",
+    "787.fb0e154d.chunk.js.map": "/ringover/static/js/787.fb0e154d.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.e1737cac.css",
-    "static/js/main.ea901508.js"
+    "static/css/main.3e34730d.css",
+    "static/js/main.2e257de6.js"
   ]
 }
