@@ -1,0 +1,32 @@
+.contact {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-direction: column;
+  margin-top: 4vh;
+  background: url("../../assets/background.jpeg");
+  background-size: cover;
+}
+.btm {
+  padding-top: 10px;
+}
+.contact__head {
+  text-align: center;
+}
+
+.contact__content {
+  margin-top: 0;
+}
+
+.contact__mail {
+  margin-bottom: 0;
+}
+
+.contact__socials {
+  display: flex;
+  gap: 1rem;
+}
+
+.contact__socials_img {
+  height: 2rem;
+}

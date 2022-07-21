@@ -1,0 +1,39 @@
+.journey {
+  margin-left: 7vw;
+  margin-right: 7vw;
+  margin-top: 1vh;
+  margin-bottom: 4vh;
+  padding: 0;
+}
+
+.grass {
+  height: 45vh;
+  background: url("../../assets/grasspic.jpg");
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  color: #fff;
+  font-size: xx-large;
+  background-size: cover;
+}
+
+h1 {
+  font-weight: 400;
+}
+
+h2 {
+  font-weight: 400;
+  margin-bottom: 0;
+}
+
+p {
+  margin-top: 0;
+}
+
+.black {
+  height: max-content;
+  background: black;
+  color: #fff;
+  padding: 2rem;
+  padding-top: 1rem;
+}
